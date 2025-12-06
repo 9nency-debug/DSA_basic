@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Pranshiv/Nenshiv/Vikas Sir_Coding Club/03_BS.dSYM/Contents/Sorting/02_Selection_Sort'
+relocations:
+  - { offset: 0x2479, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xF1F6, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2586, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_02_Selection_Sort.cpp, symObjAddr: 0x1A4, symBinAddr: 0x10000086C, symSize: 0x14 }
+  - { offset: 0x259D, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x168, symBinAddr: 0x100000830, symSize: 0x3C }
+  - { offset: 0x25BB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x140 }
+...
